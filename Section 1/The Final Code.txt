@@ -1,0 +1,5 @@
+The final code
+
+The final code can be downloaded from the Coding For Everybody website (free download) https://codingforeverybody.com/documents/4/8bit-website.zip
+
+You'll need to unzip this file and you'll find nes.html in there. Open nes.html in your browser to see the final website, or open nes.html in your code editor.
